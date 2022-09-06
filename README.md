@@ -1,9 +1,8 @@
 ### Hi there, I am Sai Praveen.
 
-- 🏢 I am a Software Engineer at Goldman Sachs, Bengaluru.
+- 🎓 I am a computer science graduate student at The State University of New York at Buffalo.
 - 🎓 I graduated with an M.Sc. in Theoretical Computer Science from PSG College of Technology, Coimbatore.
-- 🔭 I’m currently working on software supply chain component analysis.
-- 🌱 I’m currently learning to develop cross-platform applications.
+- 🏢 I worked as a software engineer at Goldman Sachs.
 - 💻 When I'm not working, I like to read cool articles and blogs around the Internet, work on my side projects or binge watch post apocalyptic TV series.
 - 💬 Ask me about: software development, cloud deployment, open-source software, tech news.
 - 📫 How to reach me: Email or DM on LinkedIn.
